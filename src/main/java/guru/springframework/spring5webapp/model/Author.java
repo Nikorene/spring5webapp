@@ -2,7 +2,6 @@ package guru.springframework.spring5webapp.model;
 
 import java.util.HashSet;
 import java.util.Set;
-import java.math.*;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
